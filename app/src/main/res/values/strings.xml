@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="app_key" translatable="false">AIzaSyD8wL6Be1nX-VwQr1Z61LAL6RdCx9FZXt8 </string>
+</resources>
